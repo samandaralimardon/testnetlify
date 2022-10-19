@@ -1,0 +1,35 @@
+@media screen and (max-width: 375px) {
+    .profile {
+        width: 375px;
+        height: 630px;
+        background-image: url(/img/0906135de7892c8c310deb4a64b2c9ca.jpg);
+        background-size: cover;
+
+    }
+
+    .profile__ins {
+
+    }
+    .profile__teleg {
+margin-top: 30px;
+    }
+
+    .instag {
+        width: 200px;
+        height: 48px;
+        margin-left: 80px;
+    }
+    .telegram {
+        width: 200px;
+        height: 48px;
+        margin-left: 80px;
+    }
+    .ins__r {
+        width: 200px;
+        margin-top: 215px;
+        height: 53px;
+    }
+    .teleg__r {
+        width: 200px;
+    }
+}
